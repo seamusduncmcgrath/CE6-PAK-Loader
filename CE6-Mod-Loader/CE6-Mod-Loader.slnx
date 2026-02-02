@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CE6-Mod-Loader/CE6-Mod-Loader.vcxproj" Id="27567894-f446-484b-8028-624e83118884" />
+</Solution>
